@@ -13,7 +13,7 @@ Complete the PowerShell script to install or upgrade Mozilla Firefox using the o
 
 ## Download URL
 ```
-https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US
+https://download.mozilla.org/?product=firefox-msi-latest-ssl&os=win64&lang=en-US
 ```
 
 ## How to Run
